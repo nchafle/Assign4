@@ -1,0 +1,20 @@
+html {
+    
+    margin: auto;
+    font-size: 2em;
+    text-decoration-color: aliceblue;
+background: linear-gradient(to bottom right, black, white);
+}
+body {
+    margin:150px;
+    background: url(https://c.pxhere.com/photos/3c/50/clouds_sky_spring_clouds_form_blue_dark_clouds_white_cumulus_clouds-736478.jpg!d);
+    border: 2px solid;
+    padding: 20px; 
+    width: auto;
+    resize: horizontal;
+    overflow: auto;
+   
+    font-family:fantasy ;
+    font-style:oblique;
+    font-stretch:ultra-condensed;
+}
